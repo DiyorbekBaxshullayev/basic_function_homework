@@ -5,8 +5,7 @@
 # Return the negative value of a.
 
 def main(a):
-    a=4
-    return -a
+    a *= (-1)
+    return a
 
-x=main(10)
-print(x)
+print(main(10))
