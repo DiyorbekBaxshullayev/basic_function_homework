@@ -2,6 +2,7 @@
 
 # Return the value float type.
 
-def main(a):
+def main():
+    a=1.5
     return a
-print(main(1.5))
+print(main())
