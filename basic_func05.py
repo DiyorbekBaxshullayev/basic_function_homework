@@ -4,4 +4,4 @@
 
 def main(a):
     return a
-print(main(10.5))
+print(main(1.5))
