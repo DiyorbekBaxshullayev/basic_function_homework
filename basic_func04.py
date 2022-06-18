@@ -4,6 +4,6 @@
 
 def main():
 
-    a=-1, 0, 1, 
+    a=-1
     return a
 print (main())
